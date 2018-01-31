@@ -1,0 +1,4 @@
+1.ctrl + a 终端开头
+2.ctrl + e 终端结尾
+3.ctrl + a + k删除一行
+4.ctrl + Tab切换终端标签页

@@ -1,0 +1,10 @@
+print "bbbbbbbbbbbbbbbbbbbbb"
+print "bbbbbbbbbbbbbbbbbbbbb"
+print "bbbbbbbbbbbbbbbbbbbbb"
+print "bbbbbbbbbbbbbbbbbbbbb"
+print "bbbbbbbbbbbbbbbbbbbbb"
+print "bbbbbbbbbbbbbbbbbbbbb"
+print "bbbbbbbbbbbbbbbbbbbbb"
+print "bbbbbbbbbbbbbbbbbbbbb"
+print "bbbbbbbbbbbbbbbbbbbbb"
+
